@@ -47,7 +47,7 @@ syncedlyrics.search("...", enhanced=True)
 - ~~[Deezer](https://deezer.com/)~~ (Currently not working anymore)
 - [Lrclib](https://github.com/tranxuanthang/lrcget/issues/2#issuecomment-1326925928)
 - [NetEase](https://music.163.com/)
-- [Megalobiz](https://www.megalobiz.com/)
+- ~~[Megalobiz](https://www.megalobiz.com/)~~ (Currently not working anymore)
 - [Genius](https://genius.com) (For plain format)
 - ~~[Lyricsify](https://www.lyricsify.com/)~~ (Broken duo to Cloudflare protection)
 

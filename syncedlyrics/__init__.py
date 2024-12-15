@@ -55,7 +55,7 @@ def search(
         Lrclib(),
         # Deezer(),
         NetEase(),
-        Megalobiz(),
+        # Megalobiz(),
         Genius(),
     ]
 
